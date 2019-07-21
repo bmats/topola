@@ -2,6 +2,7 @@ import 'array-flat-polyfill';
 export * from './ancestor-chart';
 export * from './api';
 export * from './chart-util';
+export * from './colorful-renderer';
 export * from './composite-renderer';
 export * from './data';
 export * from './date-format';
